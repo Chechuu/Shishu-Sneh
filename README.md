@@ -9,18 +9,18 @@ The app features a calming pastel design with a focus on one-handed operation an
 
 ### 📊 Growth Tracker
 Monitor your baby's development with an animated, professional-grade weight chart.
-![Growth Tracker](screenshots/growth.jpg)
+![Growth Tracker](screenshots/growth.jpeg)
 
 ### 💉 Interactive Immunization
 A personalized vaccination timeline that reacts to your baby's birth date. Track progress with a live progress bar.
-![Vaccination Page](screenshots/vaccines.jpg)
+![Vaccination Page](screenshots/vaccines.jpeg)
 
 ### 🥗 Care Hub (Feeding & Milestones)
 Comprehensive guides for nutrition and developmental milestones organized by age and category.
 <p align="center">
-  <img src="screenshots/feeding.jpg" width="30%" />
-  <img src="screenshots/milestones.jpg" width="30%" />
-  <img src="screenshots/dashboard.jpg" width="30%" />
+  <img src="screenshots/feeding.jpeg" width="30%" />
+  <img src="screenshots/milestones.jpeg" width="30%" />
+  <img src="screenshots/dashboard.jpeg" width="30%" />
 </p>
 
 ## 🛠️ Technical Implementation
