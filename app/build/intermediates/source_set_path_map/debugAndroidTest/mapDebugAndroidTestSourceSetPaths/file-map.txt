@@ -1,0 +1,4 @@
+com.shishusneh.core.test.app-androidTest-0 C:\android projects\final for this one\app\build\generated\res\resValues\androidTest\debug
+com.shishusneh.core.test.app-mergeDebugAndroidTestResources-1 C:\android projects\final for this one\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.shishusneh.core.test.app-mergeDebugAndroidTestResources-2 C:\android projects\final for this one\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.shishusneh.core.test.app-debugAndroidTest-3 C:\android projects\final for this one\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
